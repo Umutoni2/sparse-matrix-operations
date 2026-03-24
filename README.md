@@ -53,6 +53,3 @@ It is designed to handle matrices efficiently by storing only non-zero values.
 
 * JavaScript (Node.js)
 
----
-
-If you want, I can make it **more professional (for GitHub submission)** or **add screenshots / examples** 👍
