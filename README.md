@@ -13,7 +13,7 @@ It is designed to handle matrices efficiently by storing only non-zero values.
 
 ```
 /sparse_matrix/
-│── code/sparse-matrix.js        # Source code
+│── code/sparse_matrix.js        # Source code
 │── sample-input/          # Sample input files
 ```
 
